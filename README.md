@@ -1,7 +1,4 @@
 # MrS4Sakib
-Raj&amp;paid tools bypass done
-
-
 #COMMAND👇👇
 
 pkg update
@@ -18,8 +15,8 @@ pip install bs4
 
 pip install futures
 
-git clone https://github.com/MrS4Sakib/MrS4Sakib
+git clone https://github.com/MrS4Sakib/Fuck.Pro
 
-cd MrS4Sakib
+cd Fuck.Pro
 
-python MrS4Sakib.py
+python Pro.py
